@@ -4,7 +4,7 @@ streamlit.title('my parents new healthey dinner')
 streamlit.header('breakfast menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & rocket Smoothie')
-streamlit.text('Hard-Boiled free-Range Egg')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
 import streamlit
 
