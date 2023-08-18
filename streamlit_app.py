@@ -6,6 +6,7 @@ streamlit.text('Omega 3 & Blueberry Oatmeal')
 stramlit.text('Kale, Spinach & rocket Smoothie')
 streamlit.text('Hard-Boiled free-Range Egg')
 
+import streamlit
 
 streamlit.title("my mom's new healthy dinner")
 streamlit.header('breakfast Fevorites')
