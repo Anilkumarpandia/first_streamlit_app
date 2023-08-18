@@ -16,11 +16,8 @@ import requests
 fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
 streamlit.header("Fruityvice Fruit Advice!")
 streamlit.text(fruityvice_response)
-
-import request
-fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
-streamlit.header("Fruityvice Fruit Advice!")
-streamlit.text(fruityvice_response)
 streamlit.text(fruityvice_response.json())
+
+
 
 
